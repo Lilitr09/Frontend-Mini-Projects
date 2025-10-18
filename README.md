@@ -30,10 +30,10 @@ Los proyectos basados en Frontend Mentor y devChallenges son mis implementacione
 
 | # | Proyecto | Descripción | Tecnologías | Dificultad | Demo | Código | Design Original |
 |---|----------|-------------|-------------|------------|------|--------|-----------------|
-| 1 | [QR Code Component](frontend-mentor/qr-code) | Componente QR code responsive | HTML, CSS | Principiante | [Live]() | [Code]() | [Design]() |
-| 2 | [Product Preview Card](frontend-mentor/product-card) | Tarjeta de producto interactiva | HTML, CSS | Principiante | [Live]() | [Code]() | [Design]() |
-| 3 | [Interactive Rating Component](frontend-mentor/rating-component) | Sistema de rating interactivo | HTML, CSS, JS | Intermedio | [Live]() | [Code]() | [Design]() |
-| 4 | [Newsletter Sign-up](frontend-mentor/newsletter) | Formulario de newsletter con validación | HTML, CSS, JS | Intermedio | [Live]() | [Code]() | [Design]() |
+| 1 | [Minimal Blog Card]() | Una simple tarjeta de blog que incluye una imagen, un título, una descripción corta y una etiqueta | HTML, CSS | Principiante | [Live]() | [Code]() | [Design](https://devchallenges.io/challenge/minimal-blog-card) |
+| 2 | []() |  |  |  | [Live]() | [Code]() | [Design]() |
+| 3 | []() |  |  |  | [Live]() | [Code]() | [Design]() |
+| 4 | []() |  |  |  | [Live]() | [Code]() | [Design]() |
 
 
 ## 🛠️ Cómo Usar
