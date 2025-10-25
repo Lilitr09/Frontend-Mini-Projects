@@ -30,8 +30,8 @@ Los proyectos basados en Frontend Mentor y devChallenges son mis implementacione
 
 | # | Proyecto | Descripción | Tecnologías | Dificultad | Demo | Código | Design Original |
 |---|----------|-------------|-------------|------------|------|--------|-----------------|
-| 1 | [Minimal Blog Card]() | Una simple tarjeta de blog que incluye una imagen, un título, una descripción corta y una etiqueta | HTML, CSS | Principiante | [Live]() | [Code]() | [Design](https://devchallenges.io/challenge/minimal-blog-card) |
-| 2 | []() |  |  |  | [Live]() | [Code]() | [Design]() |
+| 1 | [Minimal Blog Card]() | Una simple tarjeta de blog que incluye una imagen, un título, una descripción corta y una etiqueta | HTML, CSS | Principiante | [Live]() | [Code](https://github.com/Lilitr09/Frontend-Mini-Projects/tree/main/Minimal_Blog_Card) | [Design](https://devchallenges.io/challenge/minimal-blog-card) |
+| 2 | [Recipie Page]() | Página simple de una receta | HTML, CSS, Bootstrap | Principiante | [Live](https://lilitr09.github.io/Recipe-Page-Frontend-Mentor-/) | [Code](https://github.com/Lilitr09/Recipe-Page-Frontend-Mentor-) | [Design](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm) |
 | 3 | []() |  |  |  | [Live]() | [Code]() | [Design]() |
 | 4 | []() |  |  |  | [Live]() | [Code]() | [Design]() |
 
